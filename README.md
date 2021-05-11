@@ -10,7 +10,7 @@
 * [License](#License)
 ## Project Links
 * [Github Repo](https://github.com/zoeshelly-tan/employee_directory)
-* [Heroku link](https://cryptic-gorge-87999.herokuapp.com/)
+* [Github link](https://zoeshelly-tan.github.io/employee_directory/)
 
 ## Project Objective
 The project is design for employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
