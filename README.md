@@ -28,7 +28,9 @@ The project is design for employee or manager would benefit greatly from being a
 -      Json
 -      API
 ## Display 
-![screencut of the page](../asset/display_1.png)
+![screencut of the page](asset/display_1.png)
+![screencut of the page](asset/display_2.png)
+
 
 
 ## Author Contact
